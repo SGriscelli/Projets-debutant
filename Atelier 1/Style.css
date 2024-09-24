@@ -1,0 +1,44 @@
+h1
+{background-color: #069cb6;}
+h1 {color: #ffffff;}
+  
+  *{
+    box-sizing: border-box;
+    line-height: 1.5;
+  }
+  body {
+    margin:0;
+  }
+  nav
+ {
+    background-color: #069cb6
+}
+nav {color: #ffffff;}
+main {
+
+}
+section {
+  width: 70%;
+  margin: 0 auto;
+  max-width: 65ch;
+}
+article {
+  width: 45%;
+  background-color: #069cb6;
+  border-radius: 10%;
+  display: inline-block;
+  height: 10vh;
+  margin: 20px 0;
+}
+h2
+{
+  background-image:url(https://loremflickr.com/cache/resized/65535_53552655509_3c81e6c108_h_1280_400_nofilter.jpg);
+  display:flex;
+justify-content: center;
+align-items: center; 
+min-height: 250px;
+}
+h2 {color: #ffffff;}
+nav {color: #ffffff;}
+footer {background-color: #069cb6;}
+main {background-color: beige;}

@@ -1,0 +1,69 @@
+/* STYLE DE BASE */
+
+* {
+  box-sizing: border-box;
+  line-height: 1.5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: bisque;
+}
+
+/* HEADER */
+
+body,
+h1,
+h2 {
+  margin: 0;
+}
+
+header {
+  color: whitesmoke;
+  min-height: 250px;
+  background-image: url("https://fastly.picsum.photos/id/1031/1920/600.jpg?hmac=o9QMxfHJuMuQvykfD7LhCw6X4OHcTwlupAF-R7eBcIw");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2,
+nav {
+  background-color: #a306b6;
+  color: whitesmoke;
+}
+
+h2,
+a {
+  padding-left: 10px;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+/* PARTIE MAIN */
+
+main {
+}
+
+section {
+  width: 70%;
+  margin: 0 auto;
+  max-width: 65ch;
+}
+
+article {
+  width: 45%;
+  background-color: aquamarine;
+  border-radius: 10%;
+  display: inline-block;
+  height: 10vh;
+  margin: 20px 0;
+}
