@@ -1,6 +1,6 @@
 h1
 {background-color: #069cb6;}
-h1 {color: hsl(0, 0%, 100%);}
+h1 {color: hwb(0 100% 0%);}
   
   *{
     box-sizing: border-box;
@@ -13,7 +13,7 @@ h1 {color: hsl(0, 0%, 100%);}
  {
     background-color: #069cb6
 }
-nav {color: #ffffff;}
+nav {color: #87c7d5;}
 main {
 
 }
@@ -32,6 +32,7 @@ article {
 }
 h2
 {
+
   background-image:url(https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2016/04/windows-xp-est-officiellement-mort-sa-prairie-aussi-1.jpg);
   background-repeat: no-repeat;
   background-size:cover;
@@ -41,7 +42,7 @@ justify-content: center;
 align-items: center; 
 min-height: 250px;
 }
-h2 {color: #ffffff;}
+h2 {color: hsl(200, 87%, 99%);}
 nav {color: #ffffff;}
 footer {background-color: #069cb6;}
 main {background-color: beige;}
