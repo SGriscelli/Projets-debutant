@@ -25,14 +25,17 @@ section {
 article {
   width: 45%;
   background-color: #069cb6;
-  border-radius: 10%;
+  border-radius: 5px;
   display: inline-block;
   height: 10vh;
   margin: 20px 0;
 }
 h2
 {
-  background-image:url(https://loremflickr.com/cache/resized/65535_53552655509_3c81e6c108_h_1280_400_nofilter.jpg);
+  background-image:url(https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2016/04/windows-xp-est-officiellement-mort-sa-prairie-aussi-1.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position-y: 70%;
   display:flex;
 justify-content: center;
 align-items: center; 
