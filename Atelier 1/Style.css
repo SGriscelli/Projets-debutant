@@ -1,6 +1,6 @@
 h1
 {background-color: #069cb6;}
-h1 {color: #ffffff;}
+h1 {color: hsl(0, 0%, 100%);}
   
   *{
     box-sizing: border-box;
