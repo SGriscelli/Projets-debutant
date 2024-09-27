@@ -1,0 +1,37 @@
+@media (max-width: 992px) {
+    body {
+        font-size: 16px;
+        padding: 10px;
+    } 
+    .recentarticles
+    {display: flex;
+    flex-direction: column;
+}
+h1 {
+    font-size: 100%;
+    position: absolute;
+    left: 42%;
+    top: 14%;
+}
+
+.avatar {position: absolute; left: 33%;
+bottom: 50%;}
+.logogo {
+    width: 10%;
+    position: absolute; 
+    left: 44%
+}
+nav
+{
+    position: absolute;
+    top: 10%;
+    right: 28%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 20px;
+    font-size: 100%;
+    font-family: 'Source Sans 3';
+}
+header {height: 50vh;}
+}

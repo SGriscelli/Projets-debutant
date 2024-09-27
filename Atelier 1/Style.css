@@ -1,5 +1,5 @@
 h1
-{background-color: #069cb6;}
+{background-color:#A306B6 ;}
 h1 {color: hwb(0 100% 0%);}
   
   *{
@@ -9,7 +9,7 @@ h1 {color: hwb(0 100% 0%);}
   body {
     margin:0;
   }
-  nav
+  nav 
  {
     background-color: #069cb6
 }
@@ -46,3 +46,25 @@ h2 {color: hsl(200, 87%, 99%);}
 nav {color: #ffffff;}
 footer {background-color: #069cb6;}
 main {background-color: beige;}
+ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+}
+nav
+{display:flex
+   justify-content: space-between;
+   flex-direction: column;
+   justify-content: flex-start;
+
+}
+
+
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+article:first-of-type 
